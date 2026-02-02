@@ -19,3 +19,8 @@ Install dependencies:
 
 ```bash
 pip install pdfplumber pandas
+```
+
+# Usage:
+- change `PDF_PATH` in python file
+- run python file
