@@ -1,7 +1,3 @@
-# kb-statement-pdf-extractor
-This Python script extracts transaction data from PDF bank statements and exports it to CSV. It is designed specifically for Komerční banka statement formats.
-
-
 # KB Statement PDF Extractor
 
 Extracts transaction data from Komerční banka PDF statements and exports it to CSV.
